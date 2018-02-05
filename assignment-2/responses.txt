@@ -1,0 +1,21 @@
+One way that data travels on the internet is:
+- in bits. Information is processed into binary code, 1's and 0's, which
+can be sent through electricity, light, or radio waves to the receiving
+end.
+
+The relationship between IP address and the DNS is:
+- The DNS associates names of websites with the corresponding IP address,
+ to help your device connect to the destination on the internet. IP addresses
+ are the locations of devices and websites that DNS uses to send each device
+ to the correct location upon request.
+
+A cookie is:
+- one or more pieces of information stored as text strings on your device
+that your browser stores after visiting a page. Your browser stores them to
+help make browsing better by allowing a server to recall any customized
+information you had saved for that site.
+
+The three basic parts of a URL are:
+- protocol
+- domain name
+- path
