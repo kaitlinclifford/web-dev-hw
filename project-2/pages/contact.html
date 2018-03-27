@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="UTF-8">
+      <meta name="description" content="A contact-me page">
+      <meta name="author" content="Kaitlin Clifford">
+      <meta name="keywords" content="contact me, questions">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Contact Me</title>
+      <style>
+        body {background-color: lightgreen;} {font-family: arial;}
+      </style>
+    </head>
+    <body>
+      <h1 id="top" align="center">Contact Me</h1>
+      <h3 align="center">If you have a different recipe you want to share, let me know!</h3>
+      <hr>
+
+      <form align="center" action="http://www.example.com/review.php">
+        <fieldset>
+          <legend>User Info:</legend>
+          Username:
+          <input autofocus="" required="" type="text">
+          <br>
+          Email:
+          <input placeholder="email here" required="" type="text">
+          <br>
+        </fieldset>
+      </form>
+
+      <form align="center" action="http://www.example.com/review.php" method="post">
+        <p align="center">
+          Let me know if you liked this recipe, and if you tried it at home!
+        </p>
+        <textarea name="comments" rows="10" cols="50" placeholder="Enter Comments Here"></textarea>
+      </form>
+    <div>
+      <form align="center" action="http://www.example.com/review.php">
+        <p>
+          Would you recommend this recipe to a friend?
+          <br>
+          <label for="Yes">Yes</label>
+          <input name="answer" value="yes" checked="checked" type="radio">
+          <label for="No">No</label>
+          <input name="answer" value="no" type="radio">
+        </p>
+      </form>
+    </div>
+      <form action="https://www.example.com/subscribe.php" method="post">
+        <p>Subscribe to my email list if you want other recipes!:</p>
+        <input type="text" name="email" />
+        <input type="submit" name="subscribe" value="Subscribe" />
+      </form>
+      <hr>
+
+      <p align="center">
+        <a href="../index.html">Home</a>
+        <br>
+        <a href="../pages/about.html">About</a>
+      </p>
+    </body>
+  </html>
