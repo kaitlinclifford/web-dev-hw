@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(190, 155, 228);
+  font-family: sans-serif;
+}
+
+section {
+  width: 800px;
+  height: 125px;
+  background-color: rgba(213, 34, 90, 0.9);
+  padding: 10px;
+  margin: auto;
+  font-size: 30px;
+  font-family: cursive !important;
+
+}
+
+h2 {
+  color: rgb(17, 12, 57);
+  font-size: 25px;
+  font-family: monospace;
+}
+
+middle~p {
+}
+/*Wanted to add a music video from the 90's
+to show MTV music videos*/
+.middle {
+  width: 800px;
+  height: auto;
+  background-color: rgba(103, 208, 191, 0.5);
+  border-weight: 2px;
+  border-style: dashed;
+  border-color: rgb(242, 176, 47);
+  align-items: center;
+  margin: auto;
+}
+
+p.para {
+  color: rgb(29, 235, 8);
+  font-size: 20px;
+}
+
+p b {
+  text-decoration: underline;
+}
