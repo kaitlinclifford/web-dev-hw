@@ -1,0 +1,30 @@
+/*Black Han Regular */
+@font-face {
+  font-family: 'BlackHanSans-Regular';
+  src: url('../fonts/BlackHanSans-Regular.ttf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* PlayfairDisplay-Bold */
+@font-face {
+  font-family: 'PlayfairDisplay-Bold';
+  src: url('../fonts/PlayfairDisplay-Bold.ttf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* PlayfairDisplay-Regular */
+@font-face {
+  font-family: 'PlayfairDisplay-Regular';
+  src: url('../fonts/PlayfairDisplay-Regular.ttf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* PT_Sans-Narrow-Web-Regular */
+@font-face {
+  font-family: 'PT_Sans-Narrow-Web-Regular';
+  src: url('../fonts/PT_Sans-Narrow-Web-Regular.ttf') format('opentype');
+  font-weight: normal;
+  font-style: normal;

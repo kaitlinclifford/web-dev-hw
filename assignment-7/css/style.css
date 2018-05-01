@@ -1,0 +1,54 @@
+body{
+  background-color: rgb(30, 159, 153);
+}
+/*The line height on this element
+works for when the page is 1/2 of the
+screen width*/
+/*I didn't want to make it on the
+paragraph, because I didn't want the
+words to look unpleasant by adding
+or subtracting space*/
+h1{
+  color: rgb(124, 33, 58);
+  text-align: center;
+  font-family: 'BlackHanSans-Regular';
+  font-size: 40pt;
+  font-style: normal;
+  line-height: 1.30em
+}
+h2{
+  color: rgb(237, 179, 85);
+  text-align: center;
+  font-family: 'PlayfairDisplay-Regular', 'Do Hyeon';
+  font-size: 25pt;
+}
+h3{
+  color: black;
+  text-align: center;
+  font-family: 'PlayfairDisplay-Bold';
+  font-size: 35pt;
+  text-decoration: underline;
+}
+p {
+color: rgb(124, 33, 58);
+/* text-align: */
+font-family: 'PT_Sans-Narrow-Web-Regular';
+font-size: 15pt;
+}
+#button2{
+  text-align: center;
+  font-family: 'PlayfairDisplay-Regular';
+  font-size: 30pt;
+}
+a:link {
+  color: black;
+}
+a:visited {
+  color: rgb(124, 33, 58);
+}
+a:hover{
+  color: rgb(237, 179, 85);
+}
+p::first-letter {
+  font-size: 145%;
+}
