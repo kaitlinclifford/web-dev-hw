@@ -1,0 +1,207 @@
+body {
+  background-color: #fdfdf1
+}
+
+.woman{
+  margin-left: 50px;
+  z-index: 5;
+}
+
+.first {
+  margin-left: 40%
+  height: 400px;
+  width: 400px;
+}
+
+.owa {
+  font-size: 35px;
+  font-family: fantasy;
+  position: absolute;
+  width: 250px;
+  left: 400px;
+  top: 30px;
+}
+
+.vc {
+  font-size: 25px;
+  font-family: fantasy;
+  position: absolute;
+  width: 250px;
+  left: 410px;
+  top: 80px;
+}
+
+.filter {
+  font-size: 30px;
+  font-family: Arial;
+  font-style: italic;
+  text-align: center;
+  position: absolute;
+  width: 300px;
+  left: 360px;
+  top: 120px;
+  color: #fdfdf1;
+  background-color: black;
+  z-index: -5;
+}
+
+.bagless {
+  font-size: 20px;
+  font-family: 'TitilliumWeb-Regular';
+  position: absolute;
+  height: 80px;
+  width: 250px;
+  left: 380px;
+  top: 230px;
+  white-space: nowrap;
+}
+
+.pic1 {
+  position: absolute;
+  left: 340px;
+  top: 340px;
+}
+
+.honest {
+  font-size: 30px;
+  font-family: Arial;
+  color: #ed1701;
+  position: absolute;
+  width: 250px;
+  left: 490px;
+  top: 320px;
+}
+
+.honestwrite {
+  font-size: 12px;
+  font-family: Arial;
+  position: absolute;
+  width: 250px;
+  left: 520px;
+  top: 370px;
+}
+
+.pic2 {
+  position: absolute;
+  left: 360px;
+  top: 445px;
+}
+
+.glory {
+  font-size: 30px;
+  font-family: Arial;
+  position: absolute;
+  width: 250px;
+  left: 490px;
+  top: 430px;
+  color: #ed1701;
+}
+.glorywrite {
+  font-size: 12px;
+  font-family: Arial;
+  position: absolute;
+  width: 250px;
+  left: 520px;
+  top: 480px;
+}
+
+
+.whee {
+  font-size: 30px;
+  font-family: Arial;
+  position: absolute;
+  width: 250px;
+  left: 490px;
+  top: 530px;
+  color: #ed1701;
+}
+
+.wheewrite {
+  font-size: 12px;
+  font-family: Arial;
+  position: absolute;
+  width: 250px;
+  left: 520px;
+  top: 580px;
+}
+
+.float .wheewrite {
+  float: right;
+}
+
+.pic3 {
+  position: absolute;
+  left: 350px;
+  top: 595px;
+}
+
+.patent {
+  font-size: 15px;
+  font-family: 'TitanOne-Regular';
+  position: absolute;
+  width: 250px;
+  left: 8px;
+  top: 520px;
+}
+
+.presenting {
+  font-size: 14px;
+  font-family: 'san serif';
+  position: absolute;
+  left: 440px;
+  top: 700px;
+  }
+
+.logo {
+  position: absolute;
+  left: 290px;
+  top: 935px;
+}
+
+.filterqueen {
+  position: absolute;
+  left: 50px;
+  top: 1030px;
+}
+
+.scene {
+  position: absolute;
+  left: 20px;
+  top: 730px;
+  z-index: -5;
+}
+
+.keeps {
+  font-size: 12px;
+  font-family: 'TitilliumWeb-Bold';
+  position: absolute;
+  left: 20px;
+  top: 925px;
+  width: 600px;
+}
+
+.attachments {
+  font-size: 12px;
+  font-family: 'TitanOne-Regular';
+  position: absolute;
+  left: 20px;
+  top: 1235px;
+  width: 500px;
+}
+
+.guarantee {
+  position: absolute;
+  left: 580px;
+  top: 1070px;
+}
+
+.mailorder {
+  border: dashed Black;
+  font-family: 'TitanOne-Regular';
+  font-weight: normal;
+  position: absolute;
+  padding: 4px;
+  left: 330px;
+  top: 1130px;
+  background-color: #fdfdf1;
+}
